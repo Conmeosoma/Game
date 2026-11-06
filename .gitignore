@@ -1,0 +1,5 @@
+# Track only the game project in this mixed working directory.
+/*
+!/.gitignore
+!/README.md
+!/dai-minh-chu-offline/

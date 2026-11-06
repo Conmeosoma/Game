@@ -1,0 +1,15 @@
+build/
+signing/
+node_modules/
+verification/
+__pycache__/
+*.pyc
+*.jks
+*.keystore
+*.apk
+*.aab
+.env
+.env.*
+# APK-derived resources stay local; regenerate them with tools/import_apk.py.
+assets/art/
+assets/data.js
